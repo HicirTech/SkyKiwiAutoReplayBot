@@ -1,6 +1,8 @@
 const minute = 1;
 const time = n * 60 * 1000;
-const basedScript = 'https://skikiwi-bot.s3-ap-southeast-2.amazonaws.com/testing.js'
+const basedScript = 'https://raw.githubusercontent.com/HicirTech/SkyKiwiAutoReplayBot/master/based.js'
+
+
 
 
 function loadScript(script_url) {
