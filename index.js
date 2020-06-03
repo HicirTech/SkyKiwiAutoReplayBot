@@ -1,5 +1,5 @@
 const minute = 1;
-const time = n * 60 * 1000;
+const time = minute * 60 * 1000;
 const basedScript = 'https://raw.githubusercontent.com/HicirTech/SkyKiwiAutoReplayBot/master/based.js'
 
 
