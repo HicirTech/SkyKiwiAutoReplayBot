@@ -1,0 +1,13 @@
+{
+  "name": "For Mr.Yao, Skykiwi Auto replay bot",
+  "version": "1.3",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "*://bbs.skykiwi.com/*"
+      ],
+      "js": ["jquery.js","index.js"]
+    }
+  ]
+}
